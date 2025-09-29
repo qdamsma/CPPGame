@@ -1,8 +1,8 @@
 /*
  * Circle.h
  *
- *  Created on: 25 sep. 2025
- *      Author: QuintenDamsma
+ *  Created on: Jan. 11, 2019
+ *      Author: serge
  */
 
 #ifndef SHAPES_CIRCLE_H_
