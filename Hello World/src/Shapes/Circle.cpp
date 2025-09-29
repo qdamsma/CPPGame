@@ -1,8 +1,8 @@
 /*
  * Circle.cpp
  *
- *  Created on: Jan. 11, 2019
- *      Author: serge
+ *  Created on: 25 sep. 2025
+ *      Author: QuintenDamsma
  */
 
 #include "Circle.h"

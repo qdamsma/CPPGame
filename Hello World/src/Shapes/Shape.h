@@ -1,8 +1,8 @@
 /*
  * Shape.h
  *
- *  Created on: Jan. 11, 2019
- *      Author: serge
+ *  Created on: 25 sep. 2025
+ *      Author: QuintenDamsma
  */
 
 #ifndef SHAPES_SHAPE_H_
